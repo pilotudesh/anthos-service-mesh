@@ -7,8 +7,7 @@ sudo apt install siege
 
 ### Verifying the application
 ```
-kubectl get pods
-kubectl get svc
+kubectl get pods,svc
 ```
 
 ### Exploring ingress
